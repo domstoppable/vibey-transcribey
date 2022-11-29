@@ -1,0 +1,6 @@
+[submodule "VTLearn"]
+	path = VTLearn
+	url = https://github.com/domstoppable/VTLearn.git
+[submodule "vttHex"]
+	path = vttHex
+	url = https://github.com/domstoppable/vttHex.git
